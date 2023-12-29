@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolineguimaraesdossantos/)
 
-![Caroline GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolGuimaraess&show_icons=true&theme=onedark)
+![Caroline GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolGuimaraess&show_icons=true&theme=onedark&locale=pt-br)
 
 ### As tecnologias que utilizo:
 <div style="display: inline_block"> <br/>
